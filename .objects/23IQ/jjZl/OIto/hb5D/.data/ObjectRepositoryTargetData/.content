@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rOZt6vEQj0SeBw1FsXMY2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" DesignTimeRectangle="676, 905, 274, 96" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Sponsored Ad - HOT SHOT BAGS XPLORER_1425 22L |ANTI THEFT POCKET|USB TYPE C CHARGING PORT|TROLLEY SLEEVE|15.6 INCH|PREMIUM BACKPACK |WATER RESISTANT|FOR MEN &amp;amp; WOMEN' tag='H2' type='' class='a-size-base-plus a-spacing-none a-color-base a-text-normal' aaname='' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="de5084ca-ee4c-49d2-b8ab-b9d7df4b2a77" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in : kaya bags' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="716, 598, 193, 274" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl aaname='Sponsored Ad - HOT SHOT BAGS XPLORER_1425 22L |ANTI THEFT POCKET|USB TYPE C CHARGING PORT|TROLLEY SLEEVE|15.6 INCH|PREMIUM...' class='s-image' tag='IMG' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="600e5cd2-1f36-4602-b729-12a8e53816ca" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="779bae992c4f4a7df7ef3d7151b7500e.png" xmlns="">00Wo1_xwl7kqdd4nvHvIpKA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Kalankit Round Sling Ba…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "_ImimPEi6kax9beYZBJCSw",
+  "Reference": "F0JLSHUDcU21wZLj1G2Hag/_ImimPEi6kax9beYZBJCSw",
+  "ParentRef": "F0JLSHUDcU21wZLj1G2Hag/NCW-71mpAUOGbUuaKjKZvA",
+  "Created": "2025-08-14T16:41:27.4318238Z",
+  "Updated": "2025-08-14T16:41:27.4318238Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "3.9 out of 5 stars",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "bpY5lHlwfkWrw1DFuRjAJw",
+  "Reference": "F0JLSHUDcU21wZLj1G2Hag/bpY5lHlwfkWrw1DFuRjAJw",
+  "ParentRef": "F0JLSHUDcU21wZLj1G2Hag/OItoGfkoqkezFBxa1V-c8Q",
+  "Created": "2025-08-14T18:11:52.6736946Z",
+  "Updated": "2025-08-14T18:11:52.6736946Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

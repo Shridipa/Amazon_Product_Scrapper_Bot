@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7wUTHeJ3n0Gcm44rglrdOw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" DesignTimeRectangle="676, 691, 60, 12" FuzzySelectorArgument="&lt;webctrl type='' class='a-icon a-icon-star-mini a-star-mini-5' tag='I' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="4b40c565-9ef2-4254-99e4-2f73da9f4e8b" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in : kaya bags' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="716, 278, 193, 274" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl aaname='Sponsored Ad - HOT SHOT BAGS XPLORER_1425 22L |ANTI THEFT POCKET|USB TYPE C CHARGING PORT|TROLLEY SLEEVE|15.6 INCH|PREMIUM...' class='s-image' tag='IMG' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="a02a424e-f1c0-40a0-b6d7-9e1456ac81a3" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9253832e4dbd3a01b6cb2bd386f43414.png" xmlns="">062cmJwc7CUiDofbyuAw-yA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

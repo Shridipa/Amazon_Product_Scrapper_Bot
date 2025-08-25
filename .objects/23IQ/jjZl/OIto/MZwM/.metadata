@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Hidesign Women's Leathe…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "MZwMf2-hjU-HXPPupMYGAQ",
+  "Reference": "F0JLSHUDcU21wZLj1G2Hag/MZwMf2-hjU-HXPPupMYGAQ",
+  "ParentRef": "F0JLSHUDcU21wZLj1G2Hag/OItoGfkoqkezFBxa1V-c8Q",
+  "Created": "2025-08-14T17:51:12.9464878Z",
+  "Updated": "2025-08-14T17:51:12.9464878Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PICCO MASSIMO Premium L…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "hb5DmmJrEkqG5jqxhznfmQ",
+  "Reference": "F0JLSHUDcU21wZLj1G2Hag/hb5DmmJrEkqG5jqxhznfmQ",
+  "ParentRef": "F0JLSHUDcU21wZLj1G2Hag/OItoGfkoqkezFBxa1V-c8Q",
+  "Created": "2025-08-14T18:11:11.1165687Z",
+  "Updated": "2025-08-14T18:11:11.1165687Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

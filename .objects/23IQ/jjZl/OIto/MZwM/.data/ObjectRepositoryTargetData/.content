@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TNwTLNho70iM_ymXCwTsew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" DesignTimeRectangle="672, 493, 859, 46" ElementType="Text" FuzzyAccuracy="0.76" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="91eba485-3781-4177-a9a0-9fa770ec97eb" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in : bags' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1cb2655f9b78195fe767f501259ab80b.png" xmlns="">0yICxKIoGCkyPvyk1OcHQ4Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

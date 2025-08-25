@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="k1YuWX3ggkqPuHcJccbIaw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/Kalankit-Birthday-Stylish-Adjustable-Leather/dp/B0CT4397X7/ref=sr_1_2_sspa" DesignTimeRectangle="1005, 204, 412, 158" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='productTitle' tag='SPAN' type='' class='a-size-large product-title-word-break' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="1b96dc7c-bce0-4993-a99a-b079e0f605cf" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kalankit Round Sling Bag for Women &amp;amp; Girls | Stylish Vegan Leather Crossbody Purse | Side Bag with Strap | Rakhi Gift for Sister | Birthday Present | Travel-Friendly | Being Hug Again : Amazon.in: Fashion' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="26b5b88d620e4af2fee9ddbc77782aa5.png" xmlns="">0nNbY3rt38UeEQyz_23-3EQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
